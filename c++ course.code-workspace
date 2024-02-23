@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/testVScode"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "testVScode"
+	}
+}
